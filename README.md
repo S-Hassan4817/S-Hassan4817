@@ -22,7 +22,7 @@ I am a passionate programmer currently pursuing my **DISM (Diploma in Informatio
 ### 🔭 Currently Working On:
 - 🌐 Refining my Frontend skills with **Bootstrap 5** and **JavaScript**.
 - 📚 Studying Computer Science for my **HSSC Part 1 (ICS)**.
-- 🎓 Completing my **E-Projects** at Aptech.
+- 🎓 Completing my **DISM (Diploma in Information System Management)** at Aptech.
 
 ### 🌱 My Learning Path:
 - [ ] Learn Backend for Full Stack development.
@@ -32,4 +32,8 @@ I am a passionate programmer currently pursuing my **DISM (Diploma in Informatio
 ---
 
 ### 📫 Connect with me:
-www.linkedin.com/in/syedhassan4817
+<p align="left">
+<a href="https://www.linkedin.com/in/syedhassan4817" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:ha6537972@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
+

@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**S-Hassan4817/S-Hassan4817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Hassan!
 
-Here are some ideas to get you started:
+### 🚀 16-year-old Frontend Developer | HSSC (ICS Part 1) Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate programmer currently pursuing my **DISM (Diploma in Information System Management)** at **Aptech Tariq Road**. My goal is to build a solid foundation in software engineering and pursue a CS degree in the future.
+
+---
+
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
+
+---
+
+### 🔭 Currently Working On:
+- 🌐 Refining my Frontend skills with **Bootstrap 5** and **JavaScript**.
+- 📚 Studying Computer Science for my **HSSC Part 1 (ICS)**.
+- 🎓 Completing my **E-Projects** at Aptech.
+
+### 🌱 My Learning Path:
+- [ ] Master React.js for Full Stack development.
+- [ ] Learn Backend with Node.js.
+- [ ] Prepare for University CS Degree entrance.
+
+---
+
+### 📫 Connect with me:
+[Add your LinkedIn or Instagram links here!]

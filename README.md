@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi 👋, I'm Hassan!
 
 ### 🚀 16-year-old Frontend Developer | HSSC (ICS Part 1) Student

@@ -25,11 +25,11 @@ I am a passionate programmer currently pursuing my **DISM (Diploma in Informatio
 - 🎓 Completing my **E-Projects** at Aptech.
 
 ### 🌱 My Learning Path:
-- [ ] Master React.js for Full Stack development.
-- [ ] Learn Backend with Node.js.
+- [ ] Learn Backend for Full Stack development.
+- [ ] Learn Backend with Node.js and PHP.
 - [ ] Prepare for University CS Degree entrance.
 
 ---
 
 ### 📫 Connect with me:
-[Add your LinkedIn or Instagram links here!]
+www.linkedin.com/in/syedhassan4817

@@ -1,8 +1,8 @@
 # Hi 👋, I'm Hassan!
 
-### 🚀 16-year-old Frontend Developer | Class XI (HSSC Part 1 ICS) Student
+### 🚀 16-year-old Frontend Developer | Class XI (ICS/Computer Science) Student
 
-I am a passionate programmer currently pursuing my **DISM (Diploma in Information System Management)** at **Aptech Tariq Road**. My goal is to build a solid foundation in software engineering and pursue a CS degree in the future.
+I am a passionate programmer currently pursuing my **DISM (Diploma in Information System Management)** at **Aptech**. My goal is to build a solid foundation in software engineering and pursue a CS degree in the future.
 
 ---
 
@@ -19,7 +19,7 @@ I am a passionate programmer currently pursuing my **DISM (Diploma in Informatio
 
 ### 🔭 Currently Working On:
 - 🌐 Refining my Frontend skills with **Bootstrap 5** and **JavaScript**.
-- 📚 Studying Computer Science for my **HSC Part 1 (ICS/Intermediate in Computer Science)**.
+- 📚 Studying in **Class XI (Computer Science)**.
 - 🎓 Completing my **DISM (Diploma in Information System Management)** at Aptech.
 
 ### 🌱 My Learning Path:

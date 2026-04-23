@@ -28,13 +28,6 @@ Development Tools
 <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white" alt="xampp" />
 </p>
 
-📂 Featured Project: CineStream
-A Movie Ticket Management System built with PHP and MySQL.
-
-Admin Dashboard: Real-time analytics, movie CRUD operations, and booking management.
-User Interface: Responsive dark-mode layout optimized for cinema browsing.
-Database: Relational schema designed for ticket sales and theater scheduling.
-
 # 🔭 Current Focus:
 
 🎬 e-Project: Finalizing CineStream for my DISM submission.

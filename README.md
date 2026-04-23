@@ -1,5 +1,6 @@
-Hi 👋, I'm Hassan Ali!
-🚀 Aspiring Full-Stack Developer | DISM Student | Class XI (ICS)
+# Hi 👋, I'm Hassan Ali!
+### 🚀 Aspiring Developer | DISM Student | Class XI (ICS)
+
 I am a 16-year-old programmer from Karachi, Pakistan, currently bridging the gap between elegant frontend design and robust backend logic. I am pursuing a Diploma in Information System Management (DISM) at Aptech while completing my HSSC in Computer Science.
 
 🛠️ Tech Stack & Tools
@@ -28,27 +29,21 @@ Development Tools
 </p>
 
 📂 Featured Project: CineStream
-A Netflix-inspired Movie Ticket Management System built with PHP and MySQL.
+A Movie Ticket Management System built with PHP and MySQL.
 
 Admin Dashboard: Real-time analytics, movie CRUD operations, and booking management.
-
 User Interface: Responsive dark-mode layout optimized for cinema browsing.
-
 Database: Relational schema designed for ticket sales and theater scheduling.
 
-🔭 Current Focus
+# 🔭 Current Focus:
+
 🎬 e-Project: Finalizing CineStream for my DISM submission.
 
 📐 Academics: Preparing for Class XI (Sindh Board) examinations.
 
 🌐 Web Ops: Mastering deployment workflows with GitHub Actions and InfinityFree.
 
-🌱 Future Milestones
-[ ] Master Node.js and Express for modern backend architectures.
 
-[ ] Transition from Procedural PHP to Object-Oriented Programming (OOP).
-
-[ ] Prepare for international university admissions for a Bachelors in Computer Science.
 
 📫 Let's Connect!
 <p align="left">

@@ -1,8 +1,7 @@
 # Hi 👋, I'm Hassan Ali!
-### 🚀 Aspiring Developer | DISM Student | Class XI (ICS)
+### 🚀 Aspiring Developer | DISM Student | Class XII (ICS)
 
-I am a 17-year-old programmer from Karachi, Pakistan, currently bridging the gap between elegant frontend design and robust backend logic. I am pursuing a Diploma in Information System Management (DISM) at Aptech while completing my HSSC in Computer Science.
-
+I am a 17-year-old programmer from Karachi, Pakistan, currently in Class XII (HSSC Part II) for Computer Science. Having recently completed a Diploma in Information System Management (DISM) from Aptech, I specialize in bridging the gap between elegant frontend design and robust backend logic, turning complex ideas into seamless full-stack web experiences.
 🛠️ Tech Stack & Tools
 Frontend & Design
 
